@@ -31,7 +31,7 @@
 	},
 	"homepage": "https://github.com/elhakimyasya/Webium-Blogger-Template#readme",
 	"dependencies": {
-		"gulp": "^4.0.2"
+		"gulp": "^5.0.1"
 	},
 	"devDependencies": {
 		"@babel/preset-env": "^7.19.3",
@@ -40,7 +40,7 @@
 		"@tailwindcss/typography": "^0.5.7",
 		"autoprefixer": "^10.4.12",
 		"del": "6.0.0",
-		"gulp": "^4.0.2",
+		"gulp": "^5.0.1",
 		"gulp-autoprefixer": "^8.0.0",
 		"gulp-babel": "^8.0.0",
 		"gulp-babel-minify": "^0.5.2",
